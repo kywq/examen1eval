@@ -1,0 +1,29 @@
+div.logo{
+    float: left;
+}
+h1.logo{
+    float: right;
+}
+div.inicio{
+    float: right;
+}
+
+table.navegador{
+    border-collapse: collapse;
+    background-color: lightyellow;
+    border-color: lightblue;
+}
+col.navegador{
+    width: 150px;
+    height: 5px;
+    align-items: center;
+}
+h3.azul{
+    color: blue;
+}
+img.flotar{
+    float: right;
+}
+p.centrarimg{
+    text-align: center;
+}
