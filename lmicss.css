@@ -27,3 +27,13 @@ img.flotar{
 p.centrarimg{
     text-align: center;
 }
+footer{
+    background-color: lightblue;
+}
+main.margen{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+iframe.mapa{
+    float: right;
+}
